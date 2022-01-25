@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 * [ ] Text editing of items added to a To-do list using Additional Activity, Intents, and Extras
 * [ ] User can single tap on an item already in the To-do list and bring up and edit screen to edit the selected item
-* [ ] Changes to a selected To-do list item are reflected in the todo list
+* [ ] Changes to a selected item are reflected in the To-do list
 
 ## Video Walkthrough
 
