@@ -36,7 +36,9 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Note to self - cannot mix androidx with other libraries
+
+Everthing else went according to plan
 
 ## License
 
